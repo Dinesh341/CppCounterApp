@@ -36,6 +36,9 @@ class CounterRepositoryImpl @Inject constructor() : CounterRepository {
         }
     }
 
+    /**
+     * Method to call the Native method to perform the increment operation
+     */
     override fun increment() {
         NativeBridge.incrementCount()
     }

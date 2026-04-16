@@ -34,7 +34,7 @@ class CounterViewModel @Inject constructor(
     }
 
     fun increment() {
-        // show loading
+        //Update loading status
         _uiState.value = _uiState.value.copy(isLoading = true)
         repository.increment()
     }
