@@ -1,0 +1,7 @@
+# ninja log v5
+6	10589	7979646804317762	CMakeFiles/native-lib.dir/native-lib.cpp.o	ec23bede00bee46b
+10604	11341	7979646811622795	C:/Users/dines/Downloads/CppCounterApp_Gradle_Project/app/build/intermediates/cxx/Debug/241o2f2p/obj/arm64-v8a/libnative-lib.so	a7f537ba6215e8e2
+12	930	7979649407182359	CMakeFiles/native-lib.dir/native-lib.cpp.o	ec23bede00bee46b
+931	1218	7979649409861749	C:/Users/dines/Downloads/CppCounterApp_Gradle_Project/app/build/intermediates/cxx/Debug/241o2f2p/obj/arm64-v8a/libnative-lib.so	a7f537ba6215e8e2
+59	1635	7979661506363011	CMakeFiles/native-lib.dir/native-lib.cpp.o	ec23bede00bee46b
+1636	2050	7979661510640483	C:/Users/dines/Downloads/CppCounterApp_Gradle_Project/app/build/intermediates/cxx/Debug/241o2f2p/obj/arm64-v8a/libnative-lib.so	a7f537ba6215e8e2

@@ -1,0 +1,6 @@
+# ninja log v5
+14	802	7979897498155616	CMakeFiles/native-lib.dir/native-lib.cpp.o	e0b32b600af7cc5c
+804	1077	7979897501100719	C:/Users/dines/Downloads/CppCounterApp_Gradle_Project/native-lib/build/intermediates/cxx/Debug/e283c3a3/obj/arm64-v8a/libnative-lib.so	cf88e469d9ceb07d
+1	31	0	clean	9753b6e76f3e8e43
+27	1100	7979908205537102	CMakeFiles/native-lib.dir/native-lib.cpp.o	e0b32b600af7cc5c
+1101	1425	7979908208549993	C:/Users/dines/Downloads/CppCounterApp_Gradle_Project/native-lib/build/intermediates/cxx/Debug/e283c3a3/obj/arm64-v8a/libnative-lib.so	cf88e469d9ceb07d

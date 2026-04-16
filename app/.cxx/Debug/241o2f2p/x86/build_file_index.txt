@@ -1,0 +1,1 @@
+C:\Users\dines\Downloads\CppCounterApp_Gradle_Project\app\src\main\cpp\CMakeLists.txt

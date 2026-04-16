@@ -1,0 +1,1 @@
+C:\Users\dines\Downloads\CppCounterApp\native-lib\src\main\cpp\CMakeLists.txt
